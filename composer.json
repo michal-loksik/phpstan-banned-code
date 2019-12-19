@@ -1,5 +1,5 @@
 {
-    "name": "ekino/phpstan-banned-code",
+    "name": "michal-loksik/phpstan-banned-code",
     "type": "phpstan-extension",
     "description": "Detected banned code using PHPStan",
     "keywords": [
